@@ -242,15 +242,15 @@ hotel-booking/
 
 ---
 
-## 🔐 Login
+## 📝 Registration Page
 
-![Login](screenshots/02-login.png)
+![Registration Page](screenshots/02-login.png)
 
 ---
 
-## 📝 Registration
+## 🔐 Login Page
 
-![Registration](screenshots/03-register.png)
+![Login Page](screenshots/03-register.png)
 
 ---
 
@@ -272,35 +272,33 @@ hotel-booking/
 
 ---
 
-## 📄 Booking Confirmation
+## 📋 My Bookings
 
-![Booking Confirmation](screenshots/07-booking-confirmation.png)
+![My Bookings](screenshots/07-booking-confirmation.png)
+
+---
+
+## ⭐ Reviews Page
+
+![Reviews Page](screenshots/08-admin-dashboard.png)
 
 ---
 
 ## 📊 Admin Dashboard
 
-![Admin Dashboard](screenshots/08-admin-dashboard.png)
+![Admin Dashboard](screenshots/09-admin-management.png)
 
 ---
 
-## ⚙️ Admin Management
+## 📋 Bookings
 
-![Admin Management](screenshots/09-admin-management.png)
-
----
-
-## ⭐ Reviews & Ratings
-
-![Reviews and Ratings](screenshots/10-reviews.png)
+![Bookings](screenshots/10-reviews.png)
 
 ---
 
-## 👤 Profile Management
+## ⭐ Reviews
 
-![Profile Management](screenshots/11-profile.png)
-
----
+![Reviews](screenshots/11-profile.png)
 
 ## 🔒 Security
 
