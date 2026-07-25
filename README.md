@@ -2,7 +2,7 @@
 
 A full-stack **Hotel Booking Web Application** developed as a final-year **HND Information Technology project**. The system provides an online platform where users can browse hotel rooms, check room availability, make reservations, manage their bookings, and receive booking-related notifications.
 
-The application also provides a dedicated **Admin Dashboard** that allows administrators to manage hotel rooms, room images, facilities, bookings, reviews, and other website operations.
+The application also includes a dedicated **Admin Dashboard** that allows administrators to manage hotel rooms, room images, facilities, bookings, reviews, and other hotel operations.
 
 ---
 
@@ -10,7 +10,7 @@ The application also provides a dedicated **Admin Dashboard** that allows admini
 
 This project simulates a real-world hotel booking platform designed to simplify the room reservation process for both hotel guests and administrators.
 
-Users can browse available rooms, view detailed room information, check availability, make room reservations, and manage their profiles and booking history.
+Users can browse available rooms, view detailed room information, check room availability, make room reservations, and manage their profiles and booking history.
 
 The system also includes email verification using **SendGrid API** and PDF booking document generation using **mPDF**.
 
@@ -206,16 +206,17 @@ hotel-booking/
 ├── vendor/
 │
 ├── screenshots/
-│   ├── home.png
-│   ├── login.png
-│   ├── registration.png
-│   ├── rooms.png
-│   ├── room-details.png
-│   ├── booking.png
-│   ├── booking-confirmation.png
-│   ├── admin-dashboard.png
-│   ├── reviews.png
-│   └── profile.png
+│   ├── 01-homepage.png
+│   ├── 02-login.png
+│   ├── 03-register.png
+│   ├── 04-room-listing.png
+│   ├── 05-room-details.png
+│   ├── 06-booking-form.png
+│   ├── 07-booking-confirmation.png
+│   ├── 08-admin-dashboard.png
+│   ├── 09-admin-management.png
+│   ├── 10-reviews.png
+│   └── 11-profile.png
 │
 ├── index.php
 ├── rooms.php
@@ -237,61 +238,67 @@ hotel-booking/
 
 ## 🏠 Homepage
 
-![Homepage](screenshots/home.png)
+![Homepage](screenshots/01-homepage.png)
 
 ---
 
 ## 🔐 Login
 
-![Login](screenshots/login.png)
+![Login](screenshots/02-login.png)
 
 ---
 
 ## 📝 Registration
 
-![Registration](screenshots/registration.png)
+![Registration](screenshots/03-register.png)
 
 ---
 
 ## 🏨 Room Listing
 
-![Room Listing](screenshots/rooms.png)
+![Room Listing](screenshots/04-room-listing.png)
 
 ---
 
 ## 🛏️ Room Details
 
-![Room Details](screenshots/room-details.png)
+![Room Details](screenshots/05-room-details.png)
 
 ---
 
 ## 📅 Booking Form
 
-![Booking Form](screenshots/booking.png)
+![Booking Form](screenshots/06-booking-form.png)
 
 ---
 
 ## 📄 Booking Confirmation
 
-![Booking Confirmation](screenshots/booking-confirmation.png)
+![Booking Confirmation](screenshots/07-booking-confirmation.png)
 
 ---
 
 ## 📊 Admin Dashboard
 
-![Admin Dashboard](screenshots/admin-dashboard.png)
+![Admin Dashboard](screenshots/08-admin-dashboard.png)
+
+---
+
+## ⚙️ Admin Management
+
+![Admin Management](screenshots/09-admin-management.png)
 
 ---
 
 ## ⭐ Reviews & Ratings
 
-![Reviews and Ratings](screenshots/reviews.png)
+![Reviews and Ratings](screenshots/10-reviews.png)
 
 ---
 
 ## 👤 Profile Management
 
-![Profile Management](screenshots/profile.png)
+![Profile Management](screenshots/11-profile.png)
 
 ---
 
@@ -330,7 +337,7 @@ The application includes several security-related features:
 
 **Development Status: Completed / Academic Project**
 
-This project was developed as a final-year HND Information Technology project to demonstrate the implementation of a real-world hotel booking system using PHP, MySQL, JavaScript, AJAX, Bootstrap, and third-party API integration.
+This project was developed as a final-year HND Information Technology project to demonstrate the implementation of a real-world hotel booking system using PHP, MySQL, JavaScript, AJAX, Bootstrap, SendGrid API, and mPDF.
 
 ---
 
@@ -347,4 +354,3 @@ Sri Lanka
 ## 📄 License
 
 This project was developed for academic and educational purposes as part of an HND Information Technology final-year project.
-
